@@ -1,2 +1,2 @@
 # My-HTML-CV
- My CV Just in HTML
+This is a very initial version of my CV and soon I will be more code.
